@@ -1,0 +1,7 @@
+======= spectralDNS =======
+
+Spectral solvers for Direct Numerical Simulations
+  * Navier Stokes
+  * MagnetoHydroDynamics
+  * Boussinesq
+
